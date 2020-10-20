@@ -4,7 +4,6 @@
 
 from tkinter import *
 
-
 class calc():
 
     def __init__(self):
